@@ -34,7 +34,7 @@ In this repository we will be creating Multi Linear Regression Model from scratc
 
 # 3. der_cost_function():
 
-- This function is calculating derivative of cost function by taking dot product of (Y - hypothesis()) and X. After that it take mean of this dot product and then multiply it with -2.
+- This function is calculating derivative of cost function by taking dot product of (Y - hypothesis()) and X. After that it take mean of this dot product.
 
 # 4. gradient_descent_function():
 
